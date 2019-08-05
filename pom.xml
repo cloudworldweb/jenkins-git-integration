@@ -5,7 +5,7 @@
   <artifactId>jenkins-git-integration</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>jenkins-git-integration Maven Webapp</name>
+  <name>cloudworld jenkins-git-integration Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>jenkins-git-integration</finalName>
+    <finalName>cloudworld-jenkins-git-integration</finalName>
   </build>
 </project>
